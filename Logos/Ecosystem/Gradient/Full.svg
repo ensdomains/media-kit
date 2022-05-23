@@ -5,20 +5,20 @@
 <path d="M884.648 246.724C884.648 261.956 881.52 275.42 875.264 287.116C869.144 298.812 860.508 307.992 849.356 314.656C838.34 321.184 825.556 324.448 811.004 324.448C796.588 324.448 783.872 321.184 772.856 314.656C761.84 307.992 753.272 298.88 747.152 287.32C741.032 275.624 737.972 262.16 737.972 246.928C737.972 231.56 741.032 218.028 747.152 206.332C753.408 194.636 762.044 185.524 773.06 178.996C784.076 172.332 796.792 169 811.208 169C825.76 169 838.544 172.332 849.56 178.996C860.576 185.524 869.144 194.636 875.264 206.332C881.52 217.892 884.648 231.356 884.648 246.724ZM852.416 246.724C852.416 236.66 850.716 228.092 847.316 221.02C844.052 213.812 839.36 208.304 833.24 204.496C827.256 200.552 819.98 198.58 811.412 198.58C802.844 198.58 795.5 200.552 789.38 204.496C783.26 208.304 778.5 213.812 775.1 221.02C771.836 228.092 770.204 236.66 770.204 246.724C770.204 256.652 771.836 265.288 775.1 272.632C778.5 279.84 783.26 285.416 789.38 289.36C795.5 293.168 802.844 295.072 811.412 295.072C819.98 295.072 827.256 293.1 833.24 289.156C839.36 285.212 844.052 279.636 847.316 272.428C850.716 265.084 852.416 256.516 852.416 246.724Z" fill="url(#paint3_linear_36_56)"/>
 <defs>
 <linearGradient id="paint0_linear_36_56" x1="827.588" y1="519.701" x2="626.455" y2="-125.32" gradientUnits="userSpaceOnUse">
-<stop stop-color="#73A6F2"/>
-<stop offset="1" stop-color="#42C2AB"/>
+<stop stop-color="#DE82FF"/>
+<stop offset="1" stop-color="#7F6AFF"/>
 </linearGradient>
 <linearGradient id="paint1_linear_36_56" x1="827.588" y1="519.701" x2="626.455" y2="-125.32" gradientUnits="userSpaceOnUse">
-<stop stop-color="#73A6F2"/>
-<stop offset="1" stop-color="#42C2AB"/>
+<stop stop-color="#DE82FF"/>
+<stop offset="1" stop-color="#7F6AFF"/>
 </linearGradient>
 <linearGradient id="paint2_linear_36_56" x1="827.588" y1="519.701" x2="626.455" y2="-125.32" gradientUnits="userSpaceOnUse">
-<stop stop-color="#73A6F2"/>
-<stop offset="1" stop-color="#42C2AB"/>
+<stop stop-color="#DE82FF"/>
+<stop offset="1" stop-color="#7F6AFF"/>
 </linearGradient>
 <linearGradient id="paint3_linear_36_56" x1="827.588" y1="519.701" x2="626.455" y2="-125.32" gradientUnits="userSpaceOnUse">
-<stop stop-color="#73A6F2"/>
-<stop offset="1" stop-color="#42C2AB"/>
+<stop stop-color="#DE82FF"/>
+<stop offset="1" stop-color="#7F6AFF"/>
 </linearGradient>
 </defs>
 </svg>
