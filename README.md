@@ -8,7 +8,7 @@ You can download the latest version of the media kit [from the releases tab](htt
 
 ## 📖 Brand Guidelines
 
-Before using any please read the [ENS Brand Guidelines](https://ens.domains/brand-guidelines/) to ensure you are using them correctly. If you have any questions, please [Open an issue](https://github.com/ensdomains/media-kit/issues/new) and let us know, or send an email to [press@ens.domains](mailto:press@ens.domains).
+Before using any please read the [ENS Brand Guidelines](./media/Brand%20Guidelines.pdf) to ensure you are using them correctly. If you have any questions, please [Open an issue](https://github.com/ensdomains/media-kit/issues/new) and let us know, or send an email to [press@ens.domains](mailto:press@ens.domains).
 
 ## ⚖️ License
 
