@@ -1,9 +1,9 @@
-name: Release Mediakit
+name: GitHub Pages Staging
 
 on:
   push:
     tags:
-      - 'v*.*.*'
+      - 'v*.*.*-*'
 
 jobs:
   deploy:
@@ -23,11 +23,11 @@ jobs:
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
-          prerelease: false
+          prerelease: true
           files: ENS_Media_Kit.zip
           generate_release_notes: true
           body: |
-            ### This is the ENS Media Kit.
+            ### This is a pre-release of the ENS Media Kit.
 
             To download the assets see the **Assets** dropdown below. There you will find archive file containing the media-kit.
 
