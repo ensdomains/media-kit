@@ -20,9 +20,13 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Zip Folder
-        run: zip -r ENS\ Media\ Kit.zip .
+        run: zip -r ENS\ Media\ Kit.zip media LICENSE
 
-      - uses: actions/upload-artifact@v3
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
         with:
-          name: media-kit
-          path: ENS\ Media\ Kit.zip
+          prerelease: true
+          files: ENS\ Media\ Kit.zip
+          body: |
+            This is a CI/CD test release. Please ignore this version of the media-kit.
