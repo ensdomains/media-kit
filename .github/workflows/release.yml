@@ -20,7 +20,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Zip Folder
-        run: zip -r ENS-Media-Kit.zip media/** LICENSE
+        run: cd media && cp ../LICENSE ./ && zip -r ENS-Media-Kit.zip . && mv ./ENS-Media-Kit.zip ../
 
       - name: Release
         uses: softprops/action-gh-release@v1
