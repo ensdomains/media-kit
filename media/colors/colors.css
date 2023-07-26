@@ -1,0 +1,19 @@
+:root {
+  --ens-blue: #5298FF;
+  --ens-blue2: rgba(82, 152, 255, 0.6);
+  --ens-blue3: rgba(82, 152, 255, 0.25);
+  --ens-green: #49B393;
+  --ens-indigo: #5854D6;
+  --ens-orange: #FF9500;
+  --ens-pink: #FF2D55;
+  --ens-purple: #AF52DE;
+  --ens-red: #D55555;
+  --ens-teal: #5AC8FA;
+  --ens-yellow: #E8B811;
+  --ens-grey1: #F6F6F6;
+  --ens-grey2: #9B9BA7;
+  --ens-grey3: #454545;
+  --ens-gradient-blue: linear-gradient(330.4deg, #44BCF0 4.54%, #7298F8 59.2%, #A099FF 148.85%);
+  --ens-gradient-purple: linear-gradient(323.31deg, #DE82FF -15.56%, #7F6AFF 108.43%);
+  --ens-gradient-green: linear-gradient(323.31deg, #73A6F2 -15.56%, #42C2AB 108.43%);
+}

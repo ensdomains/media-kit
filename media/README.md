@@ -1,6 +1,6 @@
 # 🖼️ ENS Media Kit
 
-Welcome to the ENS Media Kit. Here you can find logos, icons, and other media assets for ENS.
+Welcome to the ENS Media Kit. Here you can find logos, colors, icons, and other media assets for ENS.
 
 Before using any please read the [ENS Brand Guidelines](./Brand%20Guidelines.pdf) to ensure you are using them correctly.
 
