@@ -11,7 +11,7 @@ You can download the latest version of the media kit [from the releases tab](htt
 Here are some quick hyperlinks for the impatient:
 
 -   [Logos](./media/logos) ([Protocol](./media/logos/primary), [Light](./media/logos/light), [Dark](./media/logos/dark), [Ecosystem](./media/logos/ecosystem/), [DAO](./media/logos/dao), [Token](./media/logos/dao))
--   [Colors](./media/colors) ([TailwindCSS](./media/colors/tailwind.config.js), [Styled-Components](./media/colors/README.md), [Plain CSS](./media/colors/colors.css), [Json](./media/colors/colors.json))
+-   [Colors](./media/colors) ([TailwindCSS](./media/colors/tailwind.config.js), [Styled-Components](./media/colors/README.md#styled-components), [Plain CSS](./media/colors/colors.css), [Json](./media/colors/colors.json))
 -   [Brand Guidelines](./media/brand_guidelines) ([PDF](./media/Brand%20Guidelines.pdf), [SVG](./media/brand_guidelines/))
 -   [Logos with Padding](./media/_legacy)
 
