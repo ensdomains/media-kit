@@ -8,8 +8,8 @@ When using plain CSS, css variables have been made available in [colors.css](./c
 
 ```css
 .mydiv {
-    background-color: var(--ens-grey1);
-    color: var(--ens-blue);
+    background-color: var(--thorin-background-primary);
+    color: var(--thorin-blue-primary);
 }
 ```
 
@@ -29,6 +29,7 @@ For tailwindcss it is recommended to use the provided [tailwind.config.js](./tai
 Simply drop it in your project and you should be good to go!
 
 ```
-.bg-ens-blue
-.bg-ens-gradient-blue
+.bg-thorin-light-blue-primary
+.bg-thorin-light-blue-surface
+.bg-thorin-dark-background-surface
 ```
